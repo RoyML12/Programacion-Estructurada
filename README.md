@@ -1,2 +1,2 @@
 # Programacion-Estructurada
-tareas de la materia Programacion Estructurada
+Tareas de la materia Programacion Estructurada
